@@ -1,0 +1,11 @@
+add_executable(
+    image_processor
+    image_processor.cpp
+        read_bmp.cpp
+        read_bmp.h
+        image.h
+        errors.h
+        image.cpp
+        write_bmp.cpp
+        write_bmp.h
+)

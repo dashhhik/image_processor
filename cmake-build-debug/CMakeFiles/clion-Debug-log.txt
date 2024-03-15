@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/dariafominykh/CLionProjects/image_processor Select CMakeLists.txt
