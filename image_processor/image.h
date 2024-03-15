@@ -6,7 +6,7 @@
 #ifndef CPP_HSE_IMAGE_H
 #define CPP_HSE_IMAGE_H
 
-#endif  // CPP_HSE_IMAGE_H
+#endif
 
 struct BITMAPFILEHEADER {
     uint16_t bfType;
